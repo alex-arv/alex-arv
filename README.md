@@ -1,11 +1,13 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=alex-arv&show_icons=true">
 
 
-# Hi, I'm Alex 👋
-### 🚀 Aspiring DevSecOps engineer | Cybersecurity Enthusiast
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>Hi, I'm Alex 👋</h1>
+    </summary>
+  </ul>
+</div>
 
-# About me
-
-University student majoring in Information Technology with a focus on cybersecurity.
-
-`linux system administration` | `bash` | `python` | `git`
+### 🏫 University student | 💻 Cybersecurity
+### 🚀 University student majoring in Information Technology with a focus on cybersecurity.
