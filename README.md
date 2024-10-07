@@ -9,5 +9,5 @@
   </ul>
 </div>
 
-### 🏫 University student | 💻 Cybersecurity
-### 🚀 University student majoring in Information Technology with a focus on cybersecurity.
+### 🏫 University student | 💻 Cybersecurity | 💻 DevOps
+#### 🚀 University student majoring in Information Technology with a focus on cybersecurity and DevOps.
